@@ -7,12 +7,12 @@ public class CreditAccount : MonoBehaviour
 
     void Start()
     {
-        
+        // poopp oops sorry
     }
 
  
     void Update()
     {
-        
+        // good change
     }
 }
