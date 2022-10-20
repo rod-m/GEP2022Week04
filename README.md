@@ -1,3 +1,3 @@
-# GEP2022Week04
+# GEP 2022 Week 04
 ## Intro to conceptual Model
 A simple game to ....
